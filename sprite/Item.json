@@ -1,0 +1,27 @@
+{
+  "spriteSheetURL": "./graphics/items.png",
+  "size": [16, 16],
+  "sprites": [
+    {
+      "name": "item_disperse",
+      "x": 0,
+      "y": 0,
+      "scalefactor": 2,
+      "colorKey": -1
+    },
+    {
+      "name": "item_multiple",
+      "x": 16,
+      "y": 0,
+      "scalefactor": 2,
+      "colorKey": -1
+    },
+    {
+      "name": "item_heart",
+      "x": 32,
+      "y": 0,
+      "scalefactor": 2,
+      "colorKey": -1
+    }
+  ]
+}
