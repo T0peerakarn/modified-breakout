@@ -16,19 +16,14 @@ $$
 \begin{bmatrix}
 dx' & dy'
 \end{bmatrix}
-
-=
-
+\=
 \begin{bmatrix}
 dx & dy
 \end{bmatrix}
-
 \begin{bmatrix}
 \cos(\theta) & -\sin(\theta) \\
 \sin(\theta) & \cos(\theta)
 \end{bmatrix}
-
-
 $$
 
 where
